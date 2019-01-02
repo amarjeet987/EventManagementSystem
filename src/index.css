@@ -1,0 +1,26 @@
+html{
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat;
+  background: #AAA;
+  background-size: 100%;
+  background-position: bottom;
+  min-height: 100%;
+}
+
+form{
+  padding: 20px;
+  margin-top: 60px;
+}
+
+form button, form h5{
+  margin: 20px 0;
+}
+
+.done-btn {
+  margin-top: 10px;
+}
